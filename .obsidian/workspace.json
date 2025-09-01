@@ -11,13 +11,130 @@
             "id": "7cbd674cd0385acf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 Warm.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "2 Warm"
+            }
+          },
+          {
+            "id": "88a1a12c5c3e60d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEGURIDAD/PLANTILLA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PLANTILLA"
+            }
+          },
+          {
+            "id": "dbb7658eed6d2e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bases"
+            }
+          },
+          {
+            "id": "557eff4c170de0a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Grep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Grep"
+            }
+          },
+          {
+            "id": "f8264cee6322e6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obedient Cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obedient Cat"
+            }
+          },
+          {
+            "id": "36da9da2c6f90578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Whats a net cat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whats a net cat"
+            }
+          },
+          {
+            "id": "010a73ff4e906384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plumbing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plumbing"
+            }
+          },
+          {
+            "id": "c58fdc0a6e48076a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEGURIDAD/PLANTILLA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PLANTILLA"
+            }
+          },
+          {
+            "id": "f8fb35a243b29e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -165,12 +282,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "822ebfb839748ef1",
+  "active": "f8fb35a243b29e85",
   "lastOpenFiles": [
-    "27-08-25.md",
     "SEGURIDAD/PLANTILLA.md",
-    "NEGOCIOS ELECTRONICOS/27-08-25.md",
+    "Sin título.md",
+    "Glitch Cat.md",
+    "Plumbing.md",
+    "Obedient Cat.md",
+    "Whats a net cat.md",
+    "Warmed Up.md",
+    "First Grep.md",
+    "Bases.md",
+    "2 Warm.md",
     "SEGURIDAD/LETS WARM UP.md",
+    "27-08-25.md",
+    "NEGOCIOS ELECTRONICOS/27-08-25.md",
     "SEGURIDAD",
     "NEGOCIOS ELECTRONICOS",
     "Bienvenido.md"
