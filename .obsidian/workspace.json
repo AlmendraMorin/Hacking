@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "164a181c61755819",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d17f2e8bbb4224c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cbd674cd0385acf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e9e0d8d92e66e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "abaafacb0d6b8ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822ebfb839748ef1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a31471bf0337022b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "134ddd789cd6737d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f65d6ce97de19178",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8371d7fa996b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e47154b2b21914f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LETS WARM UP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de LETS WARM UP"
+            }
+          },
+          {
+            "id": "748109c3c9a7bbbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LETS WARM UP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de LETS WARM UP"
+            }
+          },
+          {
+            "id": "109fb7889e15e6fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "0825373600e4de0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LETS WARM UP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de LETS WARM UP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "822ebfb839748ef1",
+  "lastOpenFiles": [
+    "27-08-25.md",
+    "SEGURIDAD/PLANTILLA.md",
+    "NEGOCIOS ELECTRONICOS/27-08-25.md",
+    "SEGURIDAD/LETS WARM UP.md",
+    "SEGURIDAD",
+    "NEGOCIOS ELECTRONICOS",
+    "Bienvenido.md"
+  ]
+}
