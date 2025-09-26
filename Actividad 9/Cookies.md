@@ -3,8 +3,5 @@
 ### Solución:
 
 ### Notas:
-```shell
 
-```
 ### Referencias:
-

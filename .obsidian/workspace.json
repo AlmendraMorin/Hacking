@@ -8,287 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cbd674cd0385acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Warm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 Warm"
-            }
-          },
-          {
-            "id": "88a1a12c5c3e60d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEGURIDAD/PLANTILLA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PLANTILLA"
-            }
-          },
-          {
-            "id": "dbb7658eed6d2e6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bases"
-            }
-          },
-          {
-            "id": "557eff4c170de0a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First Grep"
-            }
-          },
-          {
-            "id": "f8264cee6322e6b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obedient Cat"
-            }
-          },
-          {
-            "id": "36da9da2c6f90578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Whats a net cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Whats a net cat"
-            }
-          },
-          {
-            "id": "010a73ff4e906384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plumbing"
-            }
-          },
-          {
-            "id": "c58fdc0a6e48076a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEGURIDAD/PLANTILLA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PLANTILLA"
-            }
-          },
-          {
-            "id": "f8fb35a243b29e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 4/Whats a net cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Whats a net cat"
-            }
-          },
-          {
-            "id": "41d8c0b2a982bf36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Based.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Based"
-            }
-          },
-          {
-            "id": "07e0270e53d418a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Based.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Based"
-            }
-          },
-          {
-            "id": "670a824e8cddd0ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Strings it.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strings it"
-            }
-          },
-          {
-            "id": "aa4e2a404f763a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Wave a flag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wave a flag"
-            }
-          },
-          {
-            "id": "d3897e50353dc049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Static ain't always noise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Static ain't always noise"
-            }
-          },
-          {
-            "id": "2a090391213fd368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/useless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "useless"
-            }
-          },
-          {
-            "id": "5d6c0598093a4fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Tab, Tab, Attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tab, Tab, Attack"
-            }
-          },
-          {
-            "id": "b7050eb01eacca76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Magikarp Ground Mission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magikarp Ground Mission"
-            }
-          },
-          {
-            "id": "de844e67cd60f978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/repetitions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "repetitions"
-            }
-          },
-          {
-            "id": "3910987ad7bc454a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 5/Big zip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big zip"
-            }
-          },
-          {
             "id": "81f24c94365d8a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 5/First Find.md",
+                "file": "Actividad 7/Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Find"
+              "title": "Serpentine"
             }
           }
-        ],
-        "currentTab": 19
+        ]
       }
     ],
     "direction": "vertical"
@@ -438,28 +171,35 @@
   },
   "active": "81f24c94365d8a9b",
   "lastOpenFiles": [
-    "Actividad 5/Wave a flag.md",
-    "Actividad 5/useless.md",
-    "Actividad 5/Tab, Tab, Attack.md",
-    "Actividad 5/repetitions.md",
-    "Actividad 5/Static ain't always noise.md",
-    "Actividad 5/Magikarp Ground Mission.md",
-    "Actividad 5/First Find.md",
+    "Actividad 7/runme.py.md",
+    "Actividad 7/PW Crack 3.md",
+    "Actividad 7/PW Crack 2.md",
+    "Actividad 7/PW Crack 1.md",
+    "Actividad 7/fixme2.py.md",
+    "Actividad 7/fixme1.py.md",
+    "Actividad 7/convertme.py.md",
+    "Actividad 7/Codebook.md",
     "Actividad 5/Big zip.md",
-    "Actividad 5/Based.md",
+    "Actividad 5/repetitions.md",
+    "Actividad 5/Magikarp Ground Mission.md",
+    "Actividad 5/Tab, Tab, Attack.md",
+    "Actividad 5/useless.md",
+    "Actividad 5/Static ain't always noise.md",
+    "Actividad 5/Wave a flag.md",
     "Actividad 5/Strings it.md",
-    "PLANTILLA/PLANTILLA.md",
-    "Actividad.md",
-    "Actividad 4/Obedient Cat.md",
-    "Actividad 4/LETS WARM UP.md",
-    "Actividad 4/Glitch Cat.md",
-    "Actividad 4/First Grep.md",
-    "Actividad 4/Bases.md",
-    "Actividad 4/2 Warm.md",
+    "Actividad 5/Based.md",
     "Actividad 4/Whats a net cat.md",
-    "Actividad 4/Warmed Up.md",
-    "Actividad 4/Plumbing.md",
-    "Actividad 4/Nice netcat.md",
+    "Actividad 7/Super SSH.md",
+    "Actividad 7/Serpentine.md",
+    "PLANTILLA/PLANTILLA.md",
+    "Actividad 9/Scavenger Hunt.md",
+    "Actividad 9/Cookies.md",
+    "Actividad 9/GET aHEAD.md",
+    "Actividad 8/Client-side-again.md",
+    "Actividad 9",
+    "Actividad 8/picobrowser.md",
+    "Actividad 8",
+    "Tarea 1",
     "Pasted image 20250905220323.png",
     "Tarea 1",
     "Sin nombre 1",
@@ -467,10 +207,6 @@
     "Actividad 6",
     "PLANTILLA",
     "Actividad 4",
-    "27-08-25.md",
-    "NEGOCIOS ELECTRONICOS/27-08-25.md",
-    "Actividad 5",
-    "NEGOCIOS ELECTRONICOS",
-    "Bienvenido.md"
+    "Actividad 5"
   ]
 }
