@@ -1,0 +1,26 @@
+### Descripción: 
+I found this cipher in an old book. Can you figure out what it says? Connect with `nc jupiter.challenges.picoctf.org 5726`.
+### Solución:
+
+picoCTF{b311a50_0r_v1gn3r3_c1ph3r6fe60eaa}
+### Notas:
+```shell
+Encrypted message:
+Ne iy nytkwpsznyg nth it mtsztcy vjzprj zfzjy rkhpibj nrkitt ltc tnnygy ysee itd tte cxjltk
+
+Ifrosr tnj noawde uk siyyzre, yse Bnretèwp Cousex mls hjpn xjtnbjytki xatd eisjd
+
+Iz bls lfwskqj azycihzeej yz Brftsk ip Volpnèxj ls oy hay tcimnyarqj dkxnrogpd os 1553 my Mnzvgs Mazytszf Merqlsu ny hox moup Wa inqrg ipl. Ynr. Gotgat Gltzndtg Gplrfdo 
+
+Ltc tnj tmvqpmkseaznzn uk ehox nivmpr g ylbrj ts ltcmki my yqtdosr tnj wocjc hgqq ol fy oxitngwj arusahje fuw ln guaaxjytrd catizm tzxbkw zf vqlckx hizm ceyupcz yz tnj fpvjc hgqqpohzCZK{m311a50_0x_a1rn3x3_h1ah3x6kp60egf}
+
+Ehk ktryy herq-ooizxetypd jjdcxnatoty ol f aordllvmlbkytc inahkw socjgex, bls sfoe gwzuti 1467 my Rjzn Hfetoxea Gqmexyt.
+
+Tnj Gimjyèrk Htpnjc iy ysexjqoxj dosjeisjd cgqwej yse Gqmexyt Doxn ox Fwbkwei Inahkw.
+
+Tn 1508, Ptsatsps Zwttnjxiax tnbjytki ehk xz-cgqwej ylbaql rkhea (g rltxni ol xsilypd gqahggpty) ysaz bzuri wazjc bk f nroytcgq nosuznkse ol yse Bnretèwp Cousex.
+
+Gplrfdo’y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz. Yse rthex mllbjd ol yse gqahggpty fce tth snnqtki cemzwaxqj, bay ehk fwpnfmezx lnj yse osoed qptzjcs gwp mocpd hd xegsd ol f xnkrznoh vee usrgxp, wnnnh ify bk itfljcety hizm paim noxwpsvtydkse.
+```
+### Referencias:
+[Vigenère Decode - CyberChef](https://toolbox.itsec.tamu.edu/#recipe=Vigen%C3%A8re_Decode\('flag'\)&input=RW5jcnlwdGVkIG1lc3NhZ2U6DQpOZSBpeSBueXRrd3Bzem55ZyBudGggaXQgbXRzenRjeSB2anpwcmogemZ6ankgcmtocGliaiBucmtpdHQgbHRjIHRubnlneSB5c2VlIGl0ZCB0dGUgY3hqbHRrDQoNCklmcm9zciB0bmogbm9hd2RlIHVrIHNpeXl6cmUsIHlzZSBCbnJldMOod3AgQ291c2V4IG1scyBoanBuIHhqdG5ianl0a2kgeGF0ZCBlaXNqZA0KDQpJeiBibHMgbGZ3c2txaiBhenljaWh6ZWVqIHl6IEJyZnRzayBpcCBWb2xwbsOoeGogbHMgb3kgaGF5IHRjaW1ueWFycWogZGt4bnJvZ3BkIG9zIDE1NTMgbXkgTW56dmdzIE1henl0c3pmIE1lcnFsc3UgbnkgaG94IG1vdXAgV2EgaW5xcmcgaXBsLiBZbnIuIEdvdGdhdCBHbHR6bmR0ZyBHcGxyZmRvIA0KDQpMdGMgdG5qIHRtdnFwbWtzZWF6bnpuIHVrIGVob3ggbml2bXByIGcgeWxicmogdHMgbHRjbWtpIG15IHlxdGRvc3IgdG5qIHdvY2pjIGhncXEgb2wgZnkgb3hpdG5nd2ogYXJ1c2FoamUgZnV3IGxuIGd1YWF4anl0cmQgY2F0aXptIHR6eGJrdyB6ZiB2cWxja3ggaGl6bSBjZXl1cGN6IHl6IHRuaiBmcHZqYyBoZ3FxcG9oekNaS3ttMzExYTUwXzB4X2Excm4zeDNfaDFhaDN4NmtwNjBlZ2Z9DQoNCkVoayBrdHJ5eSBoZXJxLW9vaXp4ZXR5cGQgampkY3huYXRvdHkgb2wgZiBhb3JkbGx2bWxia3l0YyBpbmFoa3cgc29jamdleCwgYmxzIHNmb2UgZ3d6dXRpIDE0NjcgbXkgUmp6biBIZmV0b3hlYSBHcW1leHl0Lg0KDQpUbmogR2ltannDqHJrIEh0cG5qYyBpeSB5c2V4anFveGogZG9zamVpc2pkIGNncXdlaiB5c2UgR3FtZXh5dCBEb3huIG94IEZ3Ymt3ZWkgSW5haGt3Lg0KDQpUbiAxNTA4LCBQdHNhdHNwcyBad3R0bmp4aWF4IHRuYmp5dGtpIGVoayB4ei1jZ3F3ZWogeWxiYXFsIHJraGVhIChnIHJsdHhuaSBvbCB4c2lseXBkIGdxYWhnZ3B0eSkgeXNheiBienVyaSB3YXpqYyBiayBmIG5yb3l0Y2dxIG5vc3V6bmtzZSBvbCB5c2UgQm5yZXTDqHdwIENvdXNleC4NCg0KR3BscmZkb%2BKAmXkgeHBjdXNvIGJ1dHZsa3kgbHB2amxya2kgdG4gMTU1NSBneCBsIGN1c2VpdHpsdG90eSBvbCB5c2UgbG5jc3ouIFlzZSBydGhleCBtbGxiamQgb2wgeXNlIGdxYWhnZ3B0eSBmY2UgdHRoIHNubnF0a2kgY2VtendheHFqLCBiYXkgZWhrIGZ3cG5mbWV6eCBsbmogeXNlIG9zb2VkIHFwdHpqY3MgZ3dwIG1vY3BkIGhkIHhlZ3NkIG9sIGYgeG5rcnpub2ggdmVlIHVzcmd4cCwgd25ubmggaWZ5IGJrIGl0ZmxqY2V0eSBoaXptIHBhaW0gbm94d3BzdnR5ZGtzZS4)

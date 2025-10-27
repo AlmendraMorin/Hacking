@@ -1,4 +1,3 @@
-
 ### Descripción: 
 There is some interesting information hidden around this site [http://mercury.picoctf.net:44070/](http://mercury.picoctf.net:44070/). Can you find it?
 ### Solución:

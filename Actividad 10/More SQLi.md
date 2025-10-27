@@ -3,6 +3,8 @@
 ### Solución:
 
 ### Notas:
+```shell
 
+```
 ### Referencias:
 
