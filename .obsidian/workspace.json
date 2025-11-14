@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 20/vault-door-5.md",
+                "file": "Actividad 21/Safe Opener.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-5"
+              "title": "Safe Opener"
             }
           }
         ]
@@ -171,21 +171,22 @@
   },
   "active": "9062c0d684b943e2",
   "lastOpenFiles": [
-    "Actividad 20/vault-door-4.md",
-    "Actividad 20/vault-door-1.md",
-    "Actividad 20/vault-door-3.md",
-    "Actividad 20/vault-door-training.md",
-    "Actividad 20/vault-door-5.md",
-    "Actividad 9/Scavenger Hunt v1.0.md",
-    "Actividad 9/Scavenger Hunt.md",
-    "PLANTILLA/PLANTILLA.md",
-    "Actividad 21/Picker IV.md",
     "Actividad 21/Picker III.md",
     "Actividad 21/Picker II.md",
     "Actividad 21/Picker I.md",
     "Actividad 21/timer.md",
     "Actividad 21/Safe Opener 2.md",
     "Actividad 21/Safe Opener.md",
+    "Actividad 21/Picker IV.md",
+    "PLANTILLA/PLANTILLA.md",
+    "Actividad 20/vault-door-5.md",
+    "Actividad 21",
+    "Actividad 20/vault-door-4.md",
+    "Actividad 20/vault-door-1.md",
+    "Actividad 20/vault-door-3.md",
+    "Actividad 20/vault-door-training.md",
+    "Actividad 9/Scavenger Hunt v1.0.md",
+    "Actividad 9/Scavenger Hunt.md",
     "Tarea 4/Vigenere.md",
     "Actividad 21",
     "Tarea 4/substitution2.md",
@@ -196,8 +197,6 @@
     "Tarea 4/EVEN RSA CAN BE BROKEN.md",
     "Tarea 4/credstuff.md",
     "Tarea 4/Crack the Power.md",
-    "Tarea 2/Includes.md",
-    "Tarea 1/blame game.md",
     "Actividad 20",
     "Tarea 4",
     "Actividad 19",
@@ -206,7 +205,6 @@
     "Primer Parcial - Parte1",
     "Tarea 2",
     "Actividad 11",
-    "Actividad 10",
     "Pasted image 20250905220323.png"
   ]
 }
